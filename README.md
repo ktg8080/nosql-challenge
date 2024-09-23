@@ -13,3 +13,6 @@ The aim is to:
 	•	Set up a NoSQL database to manage food hygiene ratings.
 	•	Modify and clean the dataset according to the magazine’s requirements.
 	•	Perform exploratory analysis to answer specific questions posed by the editors of Eat Safe, Love.
+
+
+ Credits: Classwork was used to create the code. The last block of code in NoSQL_setup_starter.ipynb was created with the help of ChatGPT to help verify the coordinates and rating value are numbers. 
